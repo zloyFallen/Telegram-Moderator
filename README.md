@@ -63,7 +63,7 @@ Telegram Moderator Bot — это мощный бот для модерации 
 
 bash
 Copy
-git clone https://github.com/zloyFallen/Telegram-Moderator cd Telegram-Moderato
+`git clone https://github.com/zloyFallen/Telegram-Moderator cd Telegram-Moderato`
 Установите зависимости:
 
 bash
